@@ -6,5 +6,5 @@ hello **this** is bold
 _italic_  
 hello *this* is italic
 
-x^2^
+I am :flushed:
 
