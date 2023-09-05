@@ -1,5 +1,10 @@
-| Name | Age |
-| ---- | --- |
-| Surafel | 10|
-| Yohannes | 16 |
+__bold__
+**bold**  
+hello **this** is bold
+
+*italic*  
+_italic_  
+hello *this* is italic
+
+==bold and italic==
 
