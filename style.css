@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    overflow: hidden;
+}
+
+.cursor{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid white;
+    position: absolute;
+}
+
+.center{
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
