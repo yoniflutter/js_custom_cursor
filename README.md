@@ -6,5 +6,5 @@ hello **this** is bold
 _italic_  
 hello *this* is italic
 
-==highlighted==
+x^2^
 
