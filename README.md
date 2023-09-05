@@ -1,2 +1,2 @@
-[ ] Check  
-[x] Check two
+ - [ ] Check  
+ - [x] Completed
